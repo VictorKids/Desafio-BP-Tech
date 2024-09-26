@@ -31,15 +31,3 @@ $ npm run start:prod
 
 <a href="https://documenter.getpostman.com/view/33027868/2sAXqwa1HE">API's Documentation</a>
 
-## Run tests
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
