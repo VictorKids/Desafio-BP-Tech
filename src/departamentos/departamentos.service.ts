@@ -44,8 +44,7 @@ export class DepartamentosService {
     Atualizar os dados de um departamento no Banco de Dados
      - caso o ID fornecido não existir na tabela de departamentos, a atualização será negada.
      - caso o novo nome de departamento já esteja em uso, o registro será negado.
-    - caso algum colaborador esteja associado a este departamento, o nome associado será atualizado.
-
+     - caso algum colaborador esteja associado a este departamento, o nome associado será atualizado.
     */
     async update(id: number, updatedDepartamento: Prisma.DepartamentoCreateInput ){
 
