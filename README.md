@@ -44,6 +44,9 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+## End Points Documentation
+
+<a href="https://documenter.getpostman.com/view/33027868/2sAXqwa1HE">API's Documentation</a>
 
 ## Run tests
 
